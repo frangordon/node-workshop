@@ -1,0 +1,1 @@
+this is a bunch of notes for my first repo upload
